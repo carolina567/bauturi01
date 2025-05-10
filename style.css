@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://doc.ro/uploads/photos/uploads/2022/DECEMBRIE/cele-mai-sanatoase-bauturi-alcoolice-potrivit-nutritionistilor-cover.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left;
+    margin: 0;
+    padding: 20px;
+    color: #fff;
+}
+
+h1 {
+    text-align:left;
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 5px #000;
+}
+.lista-bauturi {  
+    max-width: 800px;
+    margin: 0 auto;  
+}
+.bautura {
+    text-align:left;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.bautura img {
+    width: 150px;
+    height: auto;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
+.bautura p {
+    margin: 0;
+    font-size: 16px;
+}
